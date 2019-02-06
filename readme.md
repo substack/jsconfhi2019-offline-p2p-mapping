@@ -23,6 +23,8 @@ working with digital democracy (ddem) since 2015
 ---
 # srdc issues
 
+from wapichan environmental monitoring report:
+
 * Between 2013-2018, our monitors have made more than 250 observations of
   activities that are harmful, illegal, and/or violations of our rights.
 
@@ -164,6 +166,16 @@ they get to decide how it's used and what to share
 * gossip networks can take advantage of many transfer options
 
 ---
+# why p2p: implicit backups!
+
+* devices break
+* devices fall in the river
+* devices are lost
+
+devices have full or partial read/write replicas of the data,
+like git repos
+
+---
 # mapeo
 
 * desktop and mobile
@@ -293,7 +305,7 @@ materialized views:
 
 * batch write performance
 
-15 minutes to sync to a new device with 250k records
+15 minutes to sync to a new device with ~250k records
 
 * untangling normalized historical data
 
