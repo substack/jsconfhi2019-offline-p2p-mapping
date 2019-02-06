@@ -417,7 +417,7 @@ our rights."
 -- Oswando Nenquimo (Opi), Director of the Waorani Mapping Project
 
 ---
-# links
+# links: alianza ceibo and wapichan partners
 
 * https://www.alianzaceibo.org/
 * http://wapichanao.communitylands.org/
@@ -427,16 +427,45 @@ our rights."
 * https://www.alianzaceibo.org/mapas/waorani/
 * https://www.alianzaceibo.org/mapas/siekopai/
 
-* http://unistoten.camp/
+* https://twitter.com/UnistotenCamp/status/1071528092328321024 - statement of
+  solidarity from cofan member and UDAPT coordinator william lucitante
+  to unist'ot'en (http://unistoten.camp/)
+* https://www.youtube.com/watch?v=cbb45dQDbQI - AJE segment on waorani
+* https://www.facebook.com/AlianzaCeiboAmazonia
+
+---
+# links: kanaka maoli led activism
+
 * https://www.facebook.com/protectmaunakea / #aoleTMT
 * https://therednation.org/2015/08/03/la-hoihoi-ea-politics-of-restoration-and-hawaiian-sovereignty/
+* [Pohakuloa Training Area plans slammed by Hawaiians, activists (Nov. 2011)](https://www.youtube.com/watch?v=15HosQNzcxo)
+* [ARCHIVES: Hawaiian Language Stirs Up Courts - (Jan. 28, 2018)](https://www.youtube.com/watch?v=JSCV3G_BB5I)
+
+---
+# links: offline p2p technology
 
 * https://mapeo.world/
 * https://digital-democracy.org/
 * https://peermaps.org/
 * https://datproject.org/
+
+* https://github.com/kappa-db/kappa-core
 * https://noffle.github.io/kappa-arch-workshop/
+
 * https://users.cs.duke.edu/~pankaj/publications/papers/bkd-sstd.pdf
+
+* https://github.com/peermaps/eyros
+* https://github.com/peermaps/mixmap
+
+* https://www.digital-democracy.org/blog/openstreetmap-without-servers/
+* https://www.digital-democracy.org/blog/osm-p2p/
+
+* https://github.com/digidem/mapeo-desktop
+* https://github.com/digidem/mapeo-mobile
+
+* https://github.com/digidem/kappa-osm
+* https://github.com/digidem/osm-p2p-db
+* https://github.com/digidem/osm-p2p-server
 
 ---
 
