@@ -2,6 +2,8 @@
 
 data synchronization in disconnected environments
 
+https://github.com/substack/jsconfhi2019-offline-p2p-mapping
+
 ---
 # bio
 
@@ -31,7 +33,9 @@ working with digital democracy (ddem) since 2015
 
 * Almost 50% of the impacts observed by monitors are caused by mining activities.
 
-http://wapichanao.communitylands.org/1548691773093-wapichan-environmental-monitoring-report-2018-v2.pdf
+* http://wapichanao.communitylands.org/1548691773093-wapichan-environmental-monitoring-report-2018-v2.pdf
+* http://wapichanao.communitylands.org/1505782363043-srdc-press-release-sept-19-community-monitorig-and-web-site-news-pdf.pdf
+* https://www.forestpeoples.org/en/environmental-governance/press-release/2017/press-release-wapichan-people-expose-rights-violations
 
 ---
 
@@ -43,14 +47,6 @@ bathing and drinking. The headwaters of the Kwitaro, Kuyuwini and Takatu Rivers
 are under serious threat. We are bringing this monitoring information to the
 attention of the environmental and mining authorities, yet the problem continues
 unabated.
-
----
-
-http://wapichanao.communitylands.org/1548691773093-wapichan-environmental-monitoring-report-2018-v2.pdf
-
-http://wapichanao.communitylands.org/1505782363043-srdc-press-release-sept-19-community-monitorig-and-web-site-news-pdf.pdf
-
-https://www.forestpeoples.org/en/environmental-governance/press-release/2017/press-release-wapichan-people-expose-rights-violations
 
 ---
 # srdc mapping project
@@ -68,16 +64,22 @@ leaders to show how we intend to use, care for and develop our lands."
 http://wapichanao.communitylands.org/aboutus.html
 
 ---
-# alianza ceibo issues
+# waorani territorial defense
 
-oil drilling
+“We are Waorani and we have always lived in the Amazon rainforest. Drilling
+for oil within our territory threatens everything that matters for our
+people. We do not recognize what the government calls Oil Block 22.
 
-block 22
+“Our forest homeland is not an oil block, it is our life.
+
+“Our message to the oil companies: Our land is not for sale.”
 
 ---
-# alianza ceibo mapping projects
+# waorani territorial mapping
 
+![waorani map](images/waorani-map.png)
 
+https://www.alianzaceibo.org/mapas/waorani/
 
 ---
 # tech needs
@@ -409,6 +411,9 @@ our rights."
 * http://wapichanao.communitylands.org/
 * https://www.revistadelauniversidad.mx/articles/15aa78e7-d712-4ae5-8daf-9431390313bd/mapeo-territorial-waorani
 * https://waoresist.amazonfrontlines.org/explore/
+
+* https://www.alianzaceibo.org/mapas/waorani/
+* https://www.alianzaceibo.org/mapas/siekopai/
 
 * http://unistoten.camp/
 * https://www.facebook.com/protectmaunakea / #aoleTMT
