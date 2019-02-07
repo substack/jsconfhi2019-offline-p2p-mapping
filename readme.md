@@ -35,9 +35,7 @@ from wapichan environmental monitoring report:
 
 * Almost 50% of the impacts observed by monitors are caused by mining activities.
 
-* http://wapichanao.communitylands.org/1548691773093-wapichan-environmental-monitoring-report-2018-v2.pdf
-* http://wapichanao.communitylands.org/1505782363043-srdc-press-release-sept-19-community-monitorig-and-web-site-news-pdf.pdf
-* https://www.forestpeoples.org/en/environmental-governance/press-release/2017/press-release-wapichan-people-expose-rights-violations
+http://wapichanao.communitylands.org/1548691773093-wapichan-environmental-monitoring-report-2018-v2.pdf
 
 ---
 
@@ -49,6 +47,8 @@ bathing and drinking. The headwaters of the Kwitaro, Kuyuwini and Takatu Rivers
 are under serious threat. We are bringing this monitoring information to the
 attention of the environmental and mining authorities, yet the problem continues
 unabated.
+
+http://wapichanao.communitylands.org/1505782363043-srdc-press-release-sept-19-community-monitorig-and-web-site-news-pdf.pdf
 
 ---
 # srdc mapping project
@@ -89,6 +89,7 @@ https://www.alianzaceibo.org/mapas/waorani/
 * inform local decision-making
 * gather and organize evidence
 * present information for talks with governments and outside groups
+* preserve traditional knowledge
 
 ---
 # tech needs: territory mapping
@@ -98,6 +99,8 @@ https://www.alianzaceibo.org/mapas/waorani/
   sites, wildlife, plants with important uses
 * produce maps for press and negotiations with government
 * use plotters to make paper copies
+* document cultural knowledge and stories from elders and
+  specialized knowledge holders
 
 ---
 # tech needs: environmental monitoring
